@@ -1,5 +1,5 @@
 /* eslint-env jquery */
-'use strict';
+
 
 
 function main() {
